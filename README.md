@@ -1,12 +1,8 @@
-Here’s a cleaned-up version of your `README.md` content with all mentions of **Lovable** and its related links removed:
-
----
-
 # Welcome to your Project
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/7e19c071-378a-4b96-821a-e12d68c5f452](https://lovable.dev/projects/7e19c071-378a-4b96-821a-e12d68c5f452)
+**URL**: [https://quick-poll-anoymous-views.netlify.app/]
 
 ## How can I edit this code?
 
